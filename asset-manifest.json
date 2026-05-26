@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ikonic-unisex-salon-btm-website/static/css/main.b0b20295.css",
+    "main.js": "/ikonic-unisex-salon-btm-website/static/js/main.527c1d62.js",
+    "index.html": "/ikonic-unisex-salon-btm-website/index.html",
+    "main.b0b20295.css.map": "/ikonic-unisex-salon-btm-website/static/css/main.b0b20295.css.map",
+    "main.527c1d62.js.map": "/ikonic-unisex-salon-btm-website/static/js/main.527c1d62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0b20295.css",
+    "static/js/main.527c1d62.js"
+  ]
+}
